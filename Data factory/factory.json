@@ -1,0 +1,25 @@
+{
+    "name": "covid-data-factory123",
+    "id": "/subscriptions/152d4079-4196-434f-bece-b3a6aae9a15f/resourceGroups/covid-reporting-rg/providers/Microsoft.DataFactory/factories/covid-data-factory123",
+    "type": "Microsoft.DataFactory/factories",
+    "properties": {
+        "provisioningState": "Succeeded",
+        "createTime": "2024-07-07T07:50:59.7381783Z",
+        "version": "2018-06-01",
+        "factoryStatistics": {
+            "totalResourceCount": 0,
+            "maxAllowedResourceCount": 0,
+            "factorySizeInGbUnits": 0,
+            "maxAllowedFactorySizeInGbUnits": 0
+        },
+        "publicNetworkAccess": "Enabled"
+    },
+    "eTag": "\"05003e99-0000-2000-0000-668a48e30000\"",
+    "location": "centralindia",
+    "identity": {
+        "type": "SystemAssigned",
+        "principalId": "fcac8f88-1961-4a2c-95e7-02e6d810b97d",
+        "tenantId": "12d2579e-bf95-4ebe-8f76-c8ad1f17d285"
+    },
+    "tags": {}
+}
